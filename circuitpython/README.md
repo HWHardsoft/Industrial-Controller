@@ -6,9 +6,11 @@ You will find all needed libraries here https://github.com/adafruit/Adafruit_Cir
 ## Modbus RTU
 
 
+
+
 ## Ethernet WebClient 
 
-Copy the following additional Python modules in the lib folder of your feather module:
+Copy the following additional Python modules and folders in the lib folder of your feather module:
 
 * adafruit_wiznet5k
 * adafruit_bus_device
