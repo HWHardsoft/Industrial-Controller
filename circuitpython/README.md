@@ -13,7 +13,7 @@ Credits to
 
 ## Ethernet WebClient 
 
-Copy the following additional Python modules and folders in the lib folder of your feather module:
+Copy the following additional Python modules and folders in the lib folder of the circuitpi drive:
 
 * adafruit_wiznet5k
 * adafruit_bus_device
