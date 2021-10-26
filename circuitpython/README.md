@@ -1,1 +1,1 @@
-#Circuitpython code exmples for Industrial controller
+#Circuitpython code examples for Industrial Controller
