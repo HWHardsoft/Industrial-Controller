@@ -5,6 +5,9 @@ You will find all needed libraries here https://github.com/adafruit/Adafruit_Cir
 
 ## Modbus RTU
 
+No further Python modules are required. Copy all files in the root directory of the circuitpi drive!
+
+Credits to 
 
 
 
